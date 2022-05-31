@@ -126,3 +126,48 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 22px;
   color: #070707;
 }
+
+
+
+/*------START-------*/
+
+.start-title {
+  margin: 40px 0 31px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.start-name {
+  font-family: 'Gilroy-bold';
+  font-size: 48px;
+  line-height: 59px;
+  color: #070707;
+}
+
+.start-about {
+  font-family: 'Gilroy-medium';
+  font-size: 18px;
+  line-height: 22px;
+  color: #070707;
+}
+
+.start-lang {
+  font-family: 'Gilroy-bold';
+  font-size: 16px;
+  line-height: 20px;
+  color: #828282;
+
+  transform: rotate(-90deg);
+  align-self: flex-end;
+}
+
+.start-lang span {
+  color: #070707;
+}
+
+.start-image {
+  width: 945px;
+  height: 387px;
+  margin-bottom: 105px;
+}
