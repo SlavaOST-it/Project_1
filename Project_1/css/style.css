@@ -171,3 +171,36 @@ h1, h2, h3, h4, h5, h6 {
   height: 387px;
   margin-bottom: 105px;
 }
+
+
+/*------ABOUT-------*/
+.about {
+  background-color: #F6F6F6;
+  background-size: 100% auto;
+}
+
+.about-wrapper {
+  text-align: center;
+  padding: 120px 0 107px;
+}
+
+h2 {
+  font-family: 'Gilroy-bold';
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+}
+
+.about-text {
+  font-family: 'Gilroy-medium';
+  font-size: 18px;
+  line-height: 22px;
+  width: 490px;
+
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+.about-text p {
+  padding-top: 30px;
+}
